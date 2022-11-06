@@ -12,8 +12,9 @@ import org.testng.annotations.Test;
 public class Test1{
 	@Test
 	public void gridPractice() throws MalformedURLException, InterruptedException {
-		//abc
-		URL url = new URL("http://192.168.72.1:4444/wd/hub");
+
+		//bac
+		URL url = new URL("http://192.168.72.1:9999/wd/hub");
 		DesiredCapabilities cap = new DesiredCapabilities();
 		cap.setPlatform(Platform.WINDOWS);
 		cap.setBrowserName("chrome");
