@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class Test1{
 	@Test
 	public void gridPractice() throws MalformedURLException, InterruptedException {
-
+		//Made changes in branch1
 		//bac
 		URL url = new URL("http://192.168.72.1:9999/wd/hub");
 		DesiredCapabilities cap = new DesiredCapabilities();
