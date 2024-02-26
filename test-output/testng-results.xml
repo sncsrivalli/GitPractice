@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T12:47:19 IST" name="Default suite" finished-at="2023-03-05T12:51:46 IST" duration-ms="266289">
+    <groups>
+    </groups>
+    <test started-at="2023-03-05T12:47:19 IST" name="Default test" finished-at="2023-03-05T12:51:46 IST" duration-ms="266289">
+      <class name="practice.BrokenLinks">
+        <test-method signature="brokenLinksTest()[pri:0, instance:practice.BrokenLinks@f381794]" started-at="2023-03-05T12:47:19 IST" name="brokenLinksTest" finished-at="2023-03-05T12:51:46 IST" duration-ms="266214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinksTest -->
+      </class> <!-- practice.BrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
