@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//This is the comment by user1
 public class HighLightedText {
 	
 	@Test
