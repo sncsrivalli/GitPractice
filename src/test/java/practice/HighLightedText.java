@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
-
+//This is comment by user2
 import io.github.bonigarcia.wdm.WebDriverManager;
 //This is the comment by user1
 public class HighLightedText {
